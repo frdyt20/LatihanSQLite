@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan SQLite</string>
+    <string name="str_input_name">Input Nama</string>
+    <string name="str_input_pn">Input Nomor Telepon</string>
+    <string name="str_btn_submit">SUBMIT</string>
+    <string name="str_btn_cancel">CANCEL</string>
+</resources>
